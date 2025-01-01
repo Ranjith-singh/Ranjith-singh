@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ranjith-singh
-- 👀 I’m interested in Application development
+- 👀 I’m interested in backend development and data analytics
 - 🌱 I’m currently learning DSA and oops concepts of java and spring framework.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
