@@ -21,7 +21,7 @@ I love building scalable backend systems, working with cloud technologies, and c
 
 ## 🚀 About Me
 
-- 🔭 Currently working as **Software Developer** at **Sahaj Gaming**
+- 🔭 Worked as **Software Developer** at **Sahaj Gaming**
 - 🌱 Exploring deeper into **AWS services**, **Backend Architecture**, and **Distributed Systems**
 - 🛠 Building side projects like **[Shortify](https://short-url-s.netlify.app/)** and **[VidStream Backend](https://github.com/Ranjith-singh/VidStream-Backend)**
 - 📚 Actively practicing DSA and system design
